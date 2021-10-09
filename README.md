@@ -9,14 +9,14 @@ The application's stack is quite simple, too, including HTML, CSS, and JS.
 
 ## Programmers 
 
-[Azizkhuja] (https://github.com/Azizkhuja)
-[AzamovUz (me)] (https://github.com/AzamovUz)
+[Azizkhuja](https://github.com/Azizkhuja)
+[AzamovUz (me)](https://github.com/AzamovUz)
 
 ## The OOP process
 
 Here comes the preparations we have made before sitting to code the application:
 
-_Use Cases_
+_Use Cases_<br>
 
 Title: Let 2 people play tic-tac-toe
 Primary Actor: User
@@ -28,14 +28,14 @@ the application announces the winner (respectively).
 Else the application stops when all cells are filled, and says that it's a draw. User restarts the game. 
 
 
-_User Story_
+_User Story_ <br>
 
 As a user, I want to take turns to mark “X” or “O” on the cells to try to get them in one line. 
 
-### As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD] (https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
+### As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
 
 
-_Nouns:_
+_Nouns:_<br>
 Application<br>
 Board<br>
 User<br>
@@ -47,7 +47,7 @@ Line<br>
 Winner<br>
 Draw<br>
 
-_Potential objects:_
+_Potential objects:_<br>
 3x3 Board<br>
 “X”<br>
 “O”<br>
@@ -56,7 +56,7 @@ _Potential objects:_
 Line (Winning possibilities)<br>
 Result<br>
 
-_Verbs:_ 
+_Verbs:_<br> 
 Shows<br>
 Marks<br>
 Yields<br>
@@ -65,7 +65,7 @@ Announces (Says)<br>
 Stops<br>
 Restart<br>
 
-_Potential functions:_
+_Potential functions:_<br>
 startGame()<br>
 handleClick()<br>
 putMark()<br>
