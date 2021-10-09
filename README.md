@@ -16,7 +16,7 @@ The application's stack is quite simple, too, including HTML, CSS, and JS.
 
 Here comes the preparations we have made before sitting to code the application:
 
-** Use Cases **
+_Use Cases_
 
 Title: Let 2 people play tic-tac-toe
 Primary Actor: User
@@ -28,52 +28,52 @@ the application announces the winner (respectively).
 Else the application stops when all cells are filled, and says that it's a draw. User restarts the game. 
 
 
-** User Story **
+_User Story_
 
 As a user, I want to take turns to mark “X” or “O” on the cells to try to get them in one line. 
 
 ### As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD] (https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
 
 
-** Nouns: **
-Application
-Board
-User
-“X”
-Cell
-Turn
-“O”
-Line
-Winner
-Draw
+_Nouns:_
+Application<br>
+Board<br>
+User<br>
+“X”<br>
+Cell<br>
+Turn<br>
+“O”<br>
+Line<br>
+Winner<br>
+Draw<br>
 
-** Potential objects: **
-3x3 Board
-“X”
-“O”
-“X” turn
-“O” turn
-Line (Winning possibilities)
-Result
+_Potential objects:_
+3x3 Board<br>
+“X”<br>
+“O”<br>
+“X” turn<br>
+“O” turn<br>
+Line (Winning possibilities)<br>
+Result<br>
 
-** Verbs: **
-Shows
-Marks
-Yields
-Come in (Match)
-Announces (Says)
-Stops
-Restart
+_Verbs:_ 
+Shows<br>
+Marks<br>
+Yields<br>
+Come in (Match)<br>
+Announces (Says)<br>
+Stops<br>
+Restart<br>
 
-** Potential functions: **
-startGame()
-handleClick()
-putMark()
-changeTurn()
-checkMatch()
-displayResult()
-stopGame()
-restartGame()
+_Potential functions:_
+startGame()<br>
+handleClick()<br>
+putMark()<br>
+changeTurn()<br>
+checkMatch()<br>
+displayResult()<br>
+stopGame()<br>
+restartGame()<br>
 
 
 
