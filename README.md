@@ -9,7 +9,7 @@ The application's stack is quite simple, too, including HTML, CSS, and JS.
 
 ## Programmers 
 
-[Azizkhuja](https://github.com/Azizkhuja)
+[Azizkhuja](https://github.com/Azizkhuja)<br>
 [AzamovUz (me)](https://github.com/AzamovUz)
 
 ## The OOP process
@@ -32,8 +32,8 @@ _User Story_ <br>
 
 As a user, I want to take turns to mark “X” or “O” on the cells to try to get them in one line. 
 
-### As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
-
+_As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
+_
 
 _Nouns:_<br>
 Application<br>
