@@ -14,7 +14,7 @@ The application's stack is quite simple, too, including HTML, CSS, and JS.
 
 ## The OOP process
 
-Here comes the preparations we have made before sitting to code the application:
+Here comes the preparation we have made before sitting to code the application:
 
 _Use Cases_<br>
 
@@ -32,8 +32,8 @@ _User Story_ <br>
 
 As a user, I want to take turns to mark “X” or “O” on the cells to try to get them in one line. 
 
-_As instructed in the course Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
-_
+As instructed in the course that Azizkhuja and I watched prior to building this project: [Programming Foundations: OOD](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/challenge-jukebox-class-diagrams), we selected nouns from the use cases to identify potential objects and verbs to presume functions in the projects. 
+
 
 _Nouns:_<br>
 Application<br>
